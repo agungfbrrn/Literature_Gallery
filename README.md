@@ -8,9 +8,9 @@
 
 ## Anggota Tim
 
-- [Agung Febrian 220660121086]
-- [Kemal Hapidz Prastiawan 220660121115]
-- [Dede Yayan Suciyana 220660121179]
+- Agung Febrian [220660121086]
+- Kemal Hapidz Prastiawan [220660121115]
+- Dede Yayan Suciyana [220660121179]
 
 ---
 
@@ -145,6 +145,9 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
 
 ## Demo Aplikasi
    - **Screenshot Web**:
+   - 
      ![Screenshot Web](https://i.imgur.com/ZBdw3ve.png)
+     
    - **Demo GIF**:
+   - 
      ![Demo Web](https://i.imgur.com/example.gif)
