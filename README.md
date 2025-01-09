@@ -150,5 +150,5 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
      
    - **Demo GIF**:
      
-     ![Demo Web (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGIwZnRuM2gxa28ycm9tZDBnZG1nenpzdm9vbHp3bXZhcWoyZ2V5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsEoeO9ZryaMwBE5hn/giphy.gif)
+     ![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGIwZnRuM2gxa28ycm9tZDBnZG1nenpzdm9vbHp3bXZhcWoyZ2V5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsEoeO9ZryaMwBE5hn/giphy.gif)
 
