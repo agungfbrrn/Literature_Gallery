@@ -145,9 +145,9 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
 
 ## Demo Aplikasi
    - **Screenshot Web**:
-   - 
+     
      ![Screenshot Web](https://i.imgur.com/ZBdw3ve.png)
      
    - **Demo GIF**:
-   - 
+     
      ![Demo Web](https://i.imgur.com/example.gif)
