@@ -150,4 +150,4 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
      
    - **Demo GIF**:
      
-     ![Demo Web](https://i.imgur.com/example.gif)
+     ![Demo Web](https://i.imgur.com/82okcB2.gif)
