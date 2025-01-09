@@ -144,11 +144,13 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
    ---
 
 ## Demo Aplikasi
+
    - **Screenshot Web**:
      
-     ![Screenshot Web](https://i.imgur.com/ZBdw3ve.png)
-     
+     <img src="https://i.imgur.com/ZBdw3ve.png" width="400">
+
    - **Demo GIF**:
 
-     ![Alt text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGIwZnRuM2gxa28ycm9tZDBnZG1nenpzdm9vbHp3bXZhcWoyZ2V5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsEoeO9ZryaMwBE5hn/giphy.gif)
-
+     <div style="text-align: center;">
+       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGIwZnRuM2gxa28ycm9tZDBnZG1nenpzdm9vbHp3bXZhcWoyZ2V5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsEoeO9ZryaMwBE5hn/giphy.gif" width="400">
+     </div>
