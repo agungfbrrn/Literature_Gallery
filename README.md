@@ -59,7 +59,7 @@ Untuk menjalankan aplikasi ini, Anda memerlukan:
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/[username]/UAS-PBW.git
+   git clone https://github.com/agungfbrrn/UAS-PBW.git
    cd UAS-PBW/LiteratureGallery
    ```
 
