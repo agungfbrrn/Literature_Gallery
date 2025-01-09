@@ -1,5 +1,11 @@
 # Literature Gallery
 
+<p align="center">
+       <img src="https://i.imgur.com/kSBQo1d.png" width="600">
+     </p>
+
+---
+
 ## Deskripsi Proyek
 
 **Literature Gallery** adalah aplikasi web yang dirancang untuk mengelola koleksi buku. Aplikasi ini memungkinkan pengguna untuk melakukan operasi *CRUD* (Create, Read, Update, Delete) pada data koleksi buku. Aplikasi ini juga menyediakan fitur paginasi untuk mempermudah navigasi data yang besar.
