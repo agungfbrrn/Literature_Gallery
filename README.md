@@ -12,14 +12,6 @@
 
 ---
 
-## Anggota Tim
-
-- Agung Febrian [220660121086]
-- Kemal Hapidz Prastiawan [220660121115]
-- Dede Yayan Suciyana [220660121179]
-
----
-
 ## Fitur Utama
 
 1. **Operasi CRUD**: 
